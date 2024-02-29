@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Tony</h1>
-<h3 align="left">Un étudiant passionné et ambitieux</h3>
+
 
 
 <h3 align="center">Différents langages et outils que j'utilise:</h3>
