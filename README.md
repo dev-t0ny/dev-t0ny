@@ -6,10 +6,7 @@
 ### <div align="center">I'm Tony, a computer science student 🚀</div>  
   
 
-- 🔭 I’m currently working on [a lightweight internal cheat for Assault Cube](https://github.com/dev-t0ny/assault-cube-basic-internal)  
-  
-
-- 🌱 I’m currently learning C++  
+- 🌱 I’m currently learning Laravel
   
 
 - ❓ I'm always looking for new collaboration opportunities  
