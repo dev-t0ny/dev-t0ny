@@ -1,5 +1,5 @@
 <div align="center">
-  ![banner1](https://github.com/user-attachments/assets/bbfee25d-1b99-40bb-8929-0ad14f067144)
+  ![banner1](https://github.com/user-attachments/assets/e0254f67-59d7-4cc3-8758-1b78171b80ff)
 </div>
 
 # 👋 Salut, moi c’est Antoine
