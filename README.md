@@ -3,13 +3,17 @@
 </p>
 
 
+
+
+---
+
+## Qui suis-je
+
 <p align="center">
   🎓 Étudiant en informatique au Cégep Garneau  
   <br/>
   💻 Cofondateur de Fragment Développement
 </p>
-
----
 
 ## ⚙️ Tech
 
