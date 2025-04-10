@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/e0254f67-59d7-4cc3-8758-1b78171b80ff" width="700" alt="banner" />
 </p>
 
-<h1 align="center">Salut, moi c’est Antoine</h1>
 
 <p align="center">
   🎓 Étudiant en informatique au Cégep Garneau  
