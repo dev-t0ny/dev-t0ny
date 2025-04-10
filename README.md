@@ -2,9 +2,9 @@
   ![banner1](https://github.com/user-attachments/assets/e0254f67-59d7-4cc3-8758-1b78171b80ff)
 
 
-# Salut, moi c’est Antoine
 
 🎓 Étudiant en informatique au Cégep Garneau  
+
 💻 Cofondateur de Fragment Développement  
 
 ---
