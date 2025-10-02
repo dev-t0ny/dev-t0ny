@@ -1,7 +1,7 @@
 <h1 align="left">hey 💁🏻‍♂️</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/antoineboudreau/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/antoine-boudreau-467b2a28b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" /></a>
 </p>
 
 
