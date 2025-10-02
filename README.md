@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🔹 J'explore activement le monde du <strong>DevOps</strong> (Docker, Kubernetes, CI/CD) et du développement <strong>low level</strong> (C, C++).<br>
+  🔹 J'explore activement le monde du <strong>DevOps</strong> (Docker, Kubernetes, CI/CD) et du développement <strong>low level</strong> (C, C++, Rust).<br>
   🔹 Je participe souvent à des événements de <strong>réseautage</strong> pour découvrir de nouvelles opportunités et rencontrer des gens du milieu tech.<br>
   🔹 Je suis curieux, j’aime <strong>apprendre</strong> et <strong>collaborer</strong> sur des projets stimulants.
 </p>
