@@ -2,7 +2,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/antoineboudreau/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" /></a>
-  <img src="https://img.shields.io/badge/🤝-Ouvert%20à%20collaborer-green" />
 </p>
 
 
