@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  Actuellement, je focus sur le développement mobile et l'infrastructure strong>DevOps.
+  Actuellement, je focus sur le développement mobile et le DevOps.
 </p>
 
 <p align="left">
