@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  Actuellement, je focus sur le développement <strong>mobile</strong> (Flutter) et l'infrastructure <strong>DevOps</strong>.
+  Actuellement, je focus sur le développement mobile et l'infrastructure strong>DevOps.
 </p>
 
 <p align="left">
