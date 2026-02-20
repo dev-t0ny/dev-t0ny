@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  Currently focused on mobile development and DevOps.
+  Currently focused on agentic engineering and building all the ideas I have.
 </p>
 
 <p align="left">
