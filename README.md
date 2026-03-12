@@ -18,9 +18,6 @@
   🦞 Building <strong>Homard Cloud</strong> — a secure, sandboxed hosting service for <a href="https://github.com/openclaw">OpenClaw</a> AI agent instances.
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/antoine-boudreau-467b2a28b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-</p>
 
 
 
