@@ -1,19 +1,3 @@
-<div align="center">
-
-# Tony Boudreau
-
-`AI` · `CODE` · `ONE MORE PROMPT`
-
-<br />
-
-### Welcome to the prompt shop.
-
-<sub>A little code. A lot of tokens.</sub>
-
-</div>
-
-<br />
-
 <p align="center">
   <a href="videos/hot-gpus.mp4"><img src="assets/pills/hot-gpus.gif" alt="Hot GPUs in your area" width="23%" /></a>
   <a href="videos/one-more-prompt.mp4"><img src="assets/pills/one-more-prompt.gif" alt="One more prompt" width="23%" /></a>
@@ -30,5 +14,3 @@
   <a href="videos/training-data.mp4"><img src="assets/pills/training-data.gif" alt="Smile! You’re training data" width="23%" /></a>
   <a href="videos/anthropic-s1.mp4"><img src="assets/pills/anthropic-s1.gif" alt="Anthropic S-1" width="23%" /></a>
 </p>
-
-<p align="center"><sub>Click a badge to open its video.</sub></p>
