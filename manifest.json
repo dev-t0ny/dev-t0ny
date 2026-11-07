@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "slug": "hot-gpus",
+    "title": "Hot GPUs in your area",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 16,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/hot-gpus.mp4",
+    "gif": "assets/pills/hot-gpus.gif"
+  },
+  {
+    "id": 2,
+    "slug": "we-buy",
+    "title": "We buy gold, silver & DDR5",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 16,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/we-buy.mp4",
+    "gif": "assets/pills/we-buy.gif"
+  },
+  {
+    "id": 3,
+    "slug": "skill-md-issue",
+    "title": "SKILL.MD issue",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 16,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/skill-md-issue.mp4",
+    "gif": "assets/pills/skill-md-issue.gif"
+  },
+  {
+    "id": 4,
+    "slug": "prompt-injections",
+    "title": "Free prompt injections",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 144,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/prompt-injections.mp4",
+    "gif": "assets/pills/prompt-injections.gif"
+  },
+  {
+    "id": 5,
+    "slug": "super-intelligence",
+    "title": "Artificial super intelligence",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 144,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/super-intelligence.mp4",
+    "gif": "assets/pills/super-intelligence.gif"
+  },
+  {
+    "id": 6,
+    "slug": "absolutely-right",
+    "title": "You’re absolutely right!",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 144,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/absolutely-right.mp4",
+    "gif": "assets/pills/absolutely-right.gif"
+  },
+  {
+    "id": 7,
+    "slug": "wedding-vows",
+    "title": "Wedding vows, co-authored by Claude",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 272,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/wedding-vows.mp4",
+    "gif": "assets/pills/wedding-vows.gif"
+  },
+  {
+    "id": 8,
+    "slug": "girlfriend-online",
+    "title": "My girlfriend is online",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 272,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/girlfriend-online.mp4",
+    "gif": "assets/pills/girlfriend-online.gif"
+  },
+  {
+    "id": 9,
+    "slug": "grok",
+    "title": "@grok, is this true?",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 272,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/grok.mp4",
+    "gif": "assets/pills/grok.gif"
+  },
+  {
+    "id": 10,
+    "slug": "one-more-prompt",
+    "title": "One more prompt",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 400,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/one-more-prompt.mp4",
+    "gif": "assets/pills/one-more-prompt.gif"
+  },
+  {
+    "id": 11,
+    "slug": "continue",
+    "title": "Continue? Insert $200",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 400,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/continue.mp4",
+    "gif": "assets/pills/continue.gif"
+  },
+  {
+    "id": 12,
+    "slug": "vibe-now",
+    "title": "Vibe now. Pay later.",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 400,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/vibe-now.mp4",
+    "gif": "assets/pills/vibe-now.gif"
+  },
+  {
+    "id": 13,
+    "slug": "hallucinating",
+    "title": "Hallucinating since 2022",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 528,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/hallucinating.mp4",
+    "gif": "assets/pills/hallucinating.gif"
+  },
+  {
+    "id": 14,
+    "slug": "robots-txt",
+    "title": "robots.txt",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 528,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/robots-txt.mp4",
+    "gif": "assets/pills/robots-txt.gif"
+  },
+  {
+    "id": 15,
+    "slug": "thinking",
+    "title": "What are you thinking?",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 528,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/thinking.mp4",
+    "gif": "assets/pills/thinking.gif"
+  },
+  {
+    "id": 16,
+    "slug": "open-weights",
+    "title": "Mouse open weights",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 656,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/open-weights.mp4",
+    "gif": "assets/pills/open-weights.gif"
+  },
+  {
+    "id": 17,
+    "slug": "hello-claude",
+    "title": "Hello, my name is Claude",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 656,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/hello-claude.mp4",
+    "gif": "assets/pills/hello-claude.gif"
+  },
+  {
+    "id": 18,
+    "slug": "phd-level",
+    "title": "PhD-level confidence",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 656,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/phd-level.mp4",
+    "gif": "assets/pills/phd-level.gif"
+  },
+  {
+    "id": 19,
+    "slug": "think-different",
+    "title": "Think different",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 784,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/think-different.mp4",
+    "gif": "assets/pills/think-different.gif"
+  },
+  {
+    "id": 20,
+    "slug": "our-moat",
+    "title": "Our moat: a .md file",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 784,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/our-moat.mp4",
+    "gif": "assets/pills/our-moat.gif"
+  },
+  {
+    "id": 21,
+    "slug": "ai-for-ai",
+    "title": "AI for AI for AI",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 784,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/ai-for-ai.mp4",
+    "gif": "assets/pills/ai-for-ai.gif"
+  },
+  {
+    "id": 22,
+    "slug": "organic-em-dashes",
+    "title": "100% organic em dashes",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 912,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/organic-em-dashes.mp4",
+    "gif": "assets/pills/organic-em-dashes.gif"
+  },
+  {
+    "id": 23,
+    "slug": "not-a-wrapper",
+    "title": "Not a wrapper",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 912,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/not-a-wrapper.mp4",
+    "gif": "assets/pills/not-a-wrapper.gif"
+  },
+  {
+    "id": 24,
+    "slug": "ignore-instructions",
+    "title": "Ignore all previous instructions",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 912,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/ignore-instructions.mp4",
+    "gif": "assets/pills/ignore-instructions.gif"
+  },
+  {
+    "id": 25,
+    "slug": "secured-by-vibes",
+    "title": "Secured by vibes",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 1040,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/secured-by-vibes.mp4",
+    "gif": "assets/pills/secured-by-vibes.gif"
+  },
+  {
+    "id": 26,
+    "slug": "agent-wants",
+    "title": "Agent wants to…",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 1040,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/agent-wants.mp4",
+    "gif": "assets/pills/agent-wants.gif"
+  },
+  {
+    "id": 27,
+    "slug": "training-data",
+    "title": "Smile! You’re training data",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 1040,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/training-data.mp4",
+    "gif": "assets/pills/training-data.gif"
+  },
+  {
+    "id": 28,
+    "slug": "anthropic-s1",
+    "title": "Anthropic S-1",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 18,
+      "y": 1168,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/anthropic-s1.mp4",
+    "gif": "assets/pills/anthropic-s1.gif"
+  },
+  {
+    "id": 29,
+    "slug": "gpus-for-rent",
+    "title": "GPUs for rent",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 374,
+      "y": 1168,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/gpus-for-rent.mp4",
+    "gif": "assets/pills/gpus-for-rent.gif"
+  },
+  {
+    "id": 30,
+    "slug": "benchmark",
+    "title": "State of the art benchmark",
+    "sourceStart": 0,
+    "sourceEnd": 36,
+    "crop": {
+      "x": 730,
+      "y": 1168,
+      "width": 350,
+      "height": 124
+    },
+    "mp4": "videos/benchmark.mp4",
+    "gif": "assets/pills/benchmark.gif"
+  }
+]
